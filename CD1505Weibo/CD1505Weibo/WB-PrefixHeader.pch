@@ -1,0 +1,20 @@
+//
+//  WB-PrefixHeader.pch
+//  CD1505Weibo
+//
+//  Created by 千锋 on 15/12/29.
+//  Copyright © 2015年 Yhphone. All rights reserved.
+//
+
+#ifndef WB_PrefixHeader_pch
+#define WB_PrefixHeader_pch
+
+/**
+ *  尺寸相关
+ */
+//屏幕宽度
+#define SCREEN_WIDTH [UIScreen mainScreen].bounds.size.width
+//屏幕高度
+#define SCREEN_HEIGHT [UIScreen mainScreen].bounds.size.height
+
+#endif /* WB_PrefixHeader_pch */
